@@ -1,0 +1,26 @@
+body{
+	font-size: 5em;
+}
+
+table, th, td  {
+	border:1px solid black;
+	/*border-collapse: collapse;*/
+	margin: 8px;
+	padding: 8px;
+
+}
+
+table {
+  border-spacing: 0.5rem;
+}
+
+.ttt_table{
+	margin-left: 50px;
+	margin-top: 50px;
+
+}
+
+td {
+	width: 50px;
+	height: 50px;
+}
